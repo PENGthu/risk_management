@@ -1,0 +1,14 @@
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\bin\Debug\Dataset Manager.dll
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\bin\Debug\Dataset Manager.pdb
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\bin\Debug\Dataset Manager.dll.manifest
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\bin\Debug\Dataset Manager.vsto
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset Manager.csproj.AssemblyReference.cache
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset_Manager.Form1.resources
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset_Manager.Properties.Resources.resources
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset_Manager.StatTools.resources
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset Manager.csproj.GenerateResource.cache
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset Manager.csproj.CoreCompileInputs.cache
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset Manager.csproj.CopyComplete
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset Manager.dll
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset Manager.pdb
