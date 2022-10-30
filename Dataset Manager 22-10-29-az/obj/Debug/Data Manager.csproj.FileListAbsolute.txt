@@ -1,0 +1,38 @@
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\bin\Debug\Dataset Manager.dll
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\bin\Debug\Dataset Manager.pdb
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\bin\Debug\Dataset Manager.dll.manifest
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\bin\Debug\Dataset Manager.vsto
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Data Manager.csproj.AssemblyReference.cache
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset_Manager.Form1.resources
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset_Manager.Properties.Resources.resources
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset_Manager.StatTools.resources
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Data Manager.csproj.GenerateResource.cache
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Data Manager.csproj.CoreCompileInputs.cache
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Data Manager.csproj.CopyComplete
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset Manager.dll
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset Manager.pdb
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset_Manager.Form2.resources
+D:\LiuYiTao\SW Programing Exercise\SRT\Dataset Manager\obj\Debug\Dataset_Manager.Form3.resources
+C:\Users\azaaz\Desktop\Dataset Manager\bin\Debug\Dataset Manager.dll
+C:\Users\azaaz\Desktop\Dataset Manager\bin\Debug\Dataset Manager.pdb
+C:\Users\azaaz\Desktop\Dataset Manager\bin\Debug\Dataset Manager.dll.manifest
+C:\Users\azaaz\Desktop\Dataset Manager\bin\Debug\Dataset Manager.vsto
+C:\Users\azaaz\Desktop\Dataset Manager\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Data Manager.csproj.AssemblyReference.cache
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset_Manager.Properties.Resources.resources
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset_Manager.StatTools.resources
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Data Manager.csproj.GenerateResource.cache
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Data Manager.csproj.CoreCompileInputs.cache
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Data Manager.csproj.CopyComplete
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset Manager.dll
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset Manager.pdb
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset_Manager.Form_DataViewer.resources
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset_Manager.Form_DV_samename.resources
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset_Manager.Form_DV_delete.resources
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset_Manager.DataTools.Form_DT_Difference.resources
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset_Manager.DataTools.Form_DT_Delay.resources
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset_Manager.DataTools.Form_DT_Calc.resources
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset_Manager.DataTools.Form_DT_Interact.resources
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset_Manager.DataAnalyzer.Single_Variable.resources
+C:\Users\azaaz\Desktop\Dataset Manager\obj\Debug\Dataset_Manager.DataAnalyzer.Hypothesis_Testing.resources
