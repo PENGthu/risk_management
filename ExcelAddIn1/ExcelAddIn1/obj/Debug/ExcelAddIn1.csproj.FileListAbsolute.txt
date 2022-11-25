@@ -1,0 +1,15 @@
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.pdb
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll.manifest
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.vsto
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.AssemblyReference.cache
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Properties.Resources.resources
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.GenerateResource.cache
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.CoreCompileInputs.cache
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.CopyComplete
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.dll
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.pdb
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Ribbon1.resources
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Form1.resources
+D:\Files\CS_files\C#\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Form2.resources
